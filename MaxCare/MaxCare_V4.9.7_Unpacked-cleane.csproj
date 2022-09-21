@@ -1,0 +1,345 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>MaxCare</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="costura32.main.dll" />
+    <None Remove="costura64.main.dll" />
+    <None Remove="costura.microsoft.win32.primit.compressed" />
+    <None Remove="costura.netstandard.dll.compressed" />
+    <None Remove="costura.system.appcontext.dll.compressed" />
+    <None Remove="costura.system.collections.con.compressed" />
+    <None Remove="costura.system.collections.dll.compressed" />
+    <None Remove="costura.system.collections.non.compressed" />
+    <None Remove="costura.system.collections.spe.compressed" />
+    <None Remove="costura.system.componentmodel..compressed" />
+    <None Remove="costura.system.componentmodel..compressed" />
+    <None Remove="costura.system.componentmodel..compressed" />
+    <None Remove="costura.system.componentmodel..compressed" />
+    <None Remove="costura.system.console.dll.compressed" />
+    <None Remove="costura.system.data.common.dll.compressed" />
+    <None Remove="costura.system.diagnostics.con.compressed" />
+    <None Remove="costura.system.diagnostics.deb.compressed" />
+    <None Remove="costura.system.diagnostics.fil.compressed" />
+    <None Remove="costura.system.diagnostics.pro.compressed" />
+    <None Remove="costura.system.diagnostics.sta.compressed" />
+    <None Remove="costura.system.diagnostics.tex.compressed" />
+    <None Remove="costura.system.diagnostics.too.compressed" />
+    <None Remove="costura.system.diagnostics.tra.compressed" />
+    <None Remove="costura.system.diagnostics.tra.compressed" />
+    <None Remove="costura.system.drawing.primiti.compressed" />
+    <None Remove="costura.system.dynamic.runtime.compressed" />
+    <None Remove="costura.system.globalization.c.compressed" />
+    <None Remove="costura.system.globalization.d.compressed" />
+    <None Remove="costura.system.globalization.e.compressed" />
+    <None Remove="costura.system.io.compression..compressed" />
+    <None Remove="costura.system.io.compression..compressed" />
+    <None Remove="costura.system.io.dll.compressed" />
+    <None Remove="costura.system.io.filesystem.d.compressed" />
+    <None Remove="costura.system.io.filesystem.d.compressed" />
+    <None Remove="costura.system.io.filesystem.p.compressed" />
+    <None Remove="costura.system.io.filesystem.w.compressed" />
+    <None Remove="costura.system.io.isolatedstor.compressed" />
+    <None Remove="costura.system.io.memorymapped.compressed" />
+    <None Remove="costura.system.io.pipes.dll.compressed" />
+    <None Remove="costura.system.io.unmanagedmem.compressed" />
+    <None Remove="costura.system.linq.dll.compressed" />
+    <None Remove="costura.system.linq.expression.compressed" />
+    <None Remove="costura.system.linq.parallel.d.compressed" />
+    <None Remove="costura.system.linq.queryable..compressed" />
+    <None Remove="costura.system.net.http.dll.compressed" />
+    <None Remove="costura.system.net.nameresolut.compressed" />
+    <None Remove="costura.system.net.networkinfo.compressed" />
+    <None Remove="costura.system.net.ping.dll.compressed" />
+    <None Remove="costura.system.net.primitives..compressed" />
+    <None Remove="costura.system.net.requests.dl.compressed" />
+    <None Remove="costura.system.net.security.dl.compressed" />
+    <None Remove="costura.system.net.sockets.dll.compressed" />
+    <None Remove="costura.system.net.webheaderco.compressed" />
+    <None Remove="costura.system.net.websockets..compressed" />
+    <None Remove="costura.system.net.websockets..compressed" />
+    <None Remove="costura.system.objectmodel.dll.compressed" />
+    <None Remove="costura.system.reflection.dll.compressed" />
+    <None Remove="costura.system.reflection.exte.compressed" />
+    <None Remove="costura.system.reflection.prim.compressed" />
+    <None Remove="costura.system.resources.reade.compressed" />
+    <None Remove="costura.system.resources.resou.compressed" />
+    <None Remove="costura.system.resources.write.compressed" />
+    <None Remove="costura.system.runtime.compile.compressed" />
+    <None Remove="costura.system.runtime.dll.compressed" />
+    <None Remove="costura.system.runtime.extensi.compressed" />
+    <None Remove="costura.system.runtime.handles.compressed" />
+    <None Remove="costura.system.runtime.interop.compressed" />
+    <None Remove="costura.system.runtime.interop.compressed" />
+    <None Remove="costura.system.runtime.numeric.compressed" />
+    <None Remove="costura.system.runtime.seriali.compressed" />
+    <None Remove="costura.system.runtime.seriali.compressed" />
+    <None Remove="costura.system.runtime.seriali.compressed" />
+    <None Remove="costura.system.runtime.seriali.compressed" />
+    <None Remove="costura.system.security.claims.compressed" />
+    <None Remove="costura.system.security.crypto.compressed" />
+    <None Remove="costura.system.security.crypto.compressed" />
+    <None Remove="costura.system.security.crypto.compressed" />
+    <None Remove="costura.system.security.crypto.compressed" />
+    <None Remove="costura.system.security.crypto.compressed" />
+    <None Remove="costura.system.security.princi.compressed" />
+    <None Remove="costura.system.security.secure.compressed" />
+    <None Remove="costura.system.text.encoding.d.compressed" />
+    <None Remove="costura.system.text.encoding.e.compressed" />
+    <None Remove="costura.system.text.regularexp.compressed" />
+    <None Remove="costura.system.threading.dll.compressed" />
+    <None Remove="costura.system.threading.overl.compressed" />
+    <None Remove="costura.system.threading.tasks.compressed" />
+    <None Remove="costura.system.threading.tasks.compressed" />
+    <None Remove="costura.system.threading.threa.compressed" />
+    <None Remove="costura.system.threading.threa.compressed" />
+    <None Remove="costura.system.threading.timer.compressed" />
+    <None Remove="costura.system.valuetuple.dll.compressed" />
+    <None Remove="costura.system.xml.readerwrite.compressed" />
+    <None Remove="costura.system.xml.xdocument.d.compressed" />
+    <None Remove="costura.system.xml.xmldocument.compressed" />
+    <None Remove="costura.system.xml.xmlserializ.compressed" />
+    <None Remove="costura.system.xml.xpath.dll.compressed" />
+    <None Remove="costura.system.xml.xpath.xdocu.compressed" />
+    <None Remove="costura.ae.net.mail.dll.compressed" />
+    <None Remove="costura.ae.net.mail.pdb.compressed" />
+    <None Remove="costura.bouncycastle.crypto.dl.compressed" />
+    <None Remove="costura.bunifu_ui_v1.52.dll.compressed" />
+    <None Remove="costura.costura.dll.compressed" />
+    <None Remove="costura.costura.pdb.compressed" />
+    <None Remove="costura.deviceid.dll.compressed" />
+    <None Remove="costura.emgu.cv.world.dll.compressed" />
+    <None Remove="costura.entityframework.dll.compressed" />
+    <None Remove="costura.entityframework.sqlser.compressed" />
+    <None Remove="costura.http.dll.compressed" />
+    <None Remove="costura.mailkit.dll.compressed" />
+    <None Remove="costura.mailkit.pdb.compressed" />
+    <None Remove="costura.managedwinapi.dll.compressed" />
+    <None Remove="costura.materialskin.dll.compressed" />
+    <None Remove="costura.metroframework.design..compressed" />
+    <None Remove="costura.metroframework.dll.compressed" />
+    <None Remove="costura.metroframework.fonts.d.compressed" />
+    <None Remove="costura.mimekit.dll.compressed" />
+    <None Remove="costura.mimekit.pdb.compressed" />
+    <None Remove="costura.newtonsoft.json.dll.compressed" />
+    <None Remove="costura.openqa.selenium.chrome.compressed" />
+    <None Remove="costura.otp.net.dll.compressed" />
+    <None Remove="costura.system.buffers.dll.compressed" />
+    <None Remove="costura.system.data.sqlite.dll.compressed" />
+    <None Remove="costura.system.data.sqlite.ef6.compressed" />
+    <None Remove="costura.system.data.sqlite.lin.compressed" />
+    <None Remove="costura.system.diagnostics.dia.compressed" />
+    <None Remove="costura.webdriver.dll.compressed" />
+    <None Remove="costura.webdriver.support.dll.compressed" />
+    <None Remove="costura.webdrivermanager.dll.compressed" />
+    <None Remove="costura.xnet.dll.compressed" />
+    <None Remove="costura.metadata" />
+    <EmbeddedResource Include="costura32.main.dll" />
+    <EmbeddedResource Include="costura64.main.dll" />
+    <EmbeddedResource Include="costura.microsoft.win32.primit.compressed" />
+    <EmbeddedResource Include="costura.netstandard.dll.compressed" />
+    <EmbeddedResource Include="costura.system.appcontext.dll.compressed" />
+    <EmbeddedResource Include="costura.system.collections.con.compressed" />
+    <EmbeddedResource Include="costura.system.collections.dll.compressed" />
+    <EmbeddedResource Include="costura.system.collections.non.compressed" />
+    <EmbeddedResource Include="costura.system.collections.spe.compressed" />
+    <EmbeddedResource Include="costura.system.componentmodel..compressed" />
+    <EmbeddedResource Include="costura.system.componentmodel..compressed" />
+    <EmbeddedResource Include="costura.system.componentmodel..compressed" />
+    <EmbeddedResource Include="costura.system.componentmodel..compressed" />
+    <EmbeddedResource Include="costura.system.console.dll.compressed" />
+    <EmbeddedResource Include="costura.system.data.common.dll.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.con.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.deb.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.fil.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.pro.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.sta.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.tex.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.too.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.tra.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.tra.compressed" />
+    <EmbeddedResource Include="costura.system.drawing.primiti.compressed" />
+    <EmbeddedResource Include="costura.system.dynamic.runtime.compressed" />
+    <EmbeddedResource Include="costura.system.globalization.c.compressed" />
+    <EmbeddedResource Include="costura.system.globalization.d.compressed" />
+    <EmbeddedResource Include="costura.system.globalization.e.compressed" />
+    <EmbeddedResource Include="costura.system.io.compression..compressed" />
+    <EmbeddedResource Include="costura.system.io.compression..compressed" />
+    <EmbeddedResource Include="costura.system.io.dll.compressed" />
+    <EmbeddedResource Include="costura.system.io.filesystem.d.compressed" />
+    <EmbeddedResource Include="costura.system.io.filesystem.d.compressed" />
+    <EmbeddedResource Include="costura.system.io.filesystem.p.compressed" />
+    <EmbeddedResource Include="costura.system.io.filesystem.w.compressed" />
+    <EmbeddedResource Include="costura.system.io.isolatedstor.compressed" />
+    <EmbeddedResource Include="costura.system.io.memorymapped.compressed" />
+    <EmbeddedResource Include="costura.system.io.pipes.dll.compressed" />
+    <EmbeddedResource Include="costura.system.io.unmanagedmem.compressed" />
+    <EmbeddedResource Include="costura.system.linq.dll.compressed" />
+    <EmbeddedResource Include="costura.system.linq.expression.compressed" />
+    <EmbeddedResource Include="costura.system.linq.parallel.d.compressed" />
+    <EmbeddedResource Include="costura.system.linq.queryable..compressed" />
+    <EmbeddedResource Include="costura.system.net.http.dll.compressed" />
+    <EmbeddedResource Include="costura.system.net.nameresolut.compressed" />
+    <EmbeddedResource Include="costura.system.net.networkinfo.compressed" />
+    <EmbeddedResource Include="costura.system.net.ping.dll.compressed" />
+    <EmbeddedResource Include="costura.system.net.primitives..compressed" />
+    <EmbeddedResource Include="costura.system.net.requests.dl.compressed" />
+    <EmbeddedResource Include="costura.system.net.security.dl.compressed" />
+    <EmbeddedResource Include="costura.system.net.sockets.dll.compressed" />
+    <EmbeddedResource Include="costura.system.net.webheaderco.compressed" />
+    <EmbeddedResource Include="costura.system.net.websockets..compressed" />
+    <EmbeddedResource Include="costura.system.net.websockets..compressed" />
+    <EmbeddedResource Include="costura.system.objectmodel.dll.compressed" />
+    <EmbeddedResource Include="costura.system.reflection.dll.compressed" />
+    <EmbeddedResource Include="costura.system.reflection.exte.compressed" />
+    <EmbeddedResource Include="costura.system.reflection.prim.compressed" />
+    <EmbeddedResource Include="costura.system.resources.reade.compressed" />
+    <EmbeddedResource Include="costura.system.resources.resou.compressed" />
+    <EmbeddedResource Include="costura.system.resources.write.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.compile.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.dll.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.extensi.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.handles.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.interop.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.interop.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.numeric.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.seriali.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.seriali.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.seriali.compressed" />
+    <EmbeddedResource Include="costura.system.runtime.seriali.compressed" />
+    <EmbeddedResource Include="costura.system.security.claims.compressed" />
+    <EmbeddedResource Include="costura.system.security.crypto.compressed" />
+    <EmbeddedResource Include="costura.system.security.crypto.compressed" />
+    <EmbeddedResource Include="costura.system.security.crypto.compressed" />
+    <EmbeddedResource Include="costura.system.security.crypto.compressed" />
+    <EmbeddedResource Include="costura.system.security.crypto.compressed" />
+    <EmbeddedResource Include="costura.system.security.princi.compressed" />
+    <EmbeddedResource Include="costura.system.security.secure.compressed" />
+    <EmbeddedResource Include="costura.system.text.encoding.d.compressed" />
+    <EmbeddedResource Include="costura.system.text.encoding.e.compressed" />
+    <EmbeddedResource Include="costura.system.text.regularexp.compressed" />
+    <EmbeddedResource Include="costura.system.threading.dll.compressed" />
+    <EmbeddedResource Include="costura.system.threading.overl.compressed" />
+    <EmbeddedResource Include="costura.system.threading.tasks.compressed" />
+    <EmbeddedResource Include="costura.system.threading.tasks.compressed" />
+    <EmbeddedResource Include="costura.system.threading.threa.compressed" />
+    <EmbeddedResource Include="costura.system.threading.threa.compressed" />
+    <EmbeddedResource Include="costura.system.threading.timer.compressed" />
+    <EmbeddedResource Include="costura.system.valuetuple.dll.compressed" />
+    <EmbeddedResource Include="costura.system.xml.readerwrite.compressed" />
+    <EmbeddedResource Include="costura.system.xml.xdocument.d.compressed" />
+    <EmbeddedResource Include="costura.system.xml.xmldocument.compressed" />
+    <EmbeddedResource Include="costura.system.xml.xmlserializ.compressed" />
+    <EmbeddedResource Include="costura.system.xml.xpath.dll.compressed" />
+    <EmbeddedResource Include="costura.system.xml.xpath.xdocu.compressed" />
+    <EmbeddedResource Include="costura.ae.net.mail.dll.compressed" />
+    <EmbeddedResource Include="costura.ae.net.mail.pdb.compressed" />
+    <EmbeddedResource Include="costura.bouncycastle.crypto.dl.compressed" />
+    <EmbeddedResource Include="costura.bunifu_ui_v1.52.dll.compressed" />
+    <EmbeddedResource Include="costura.costura.dll.compressed" />
+    <EmbeddedResource Include="costura.costura.pdb.compressed" />
+    <EmbeddedResource Include="costura.deviceid.dll.compressed" />
+    <EmbeddedResource Include="costura.emgu.cv.world.dll.compressed" />
+    <EmbeddedResource Include="costura.entityframework.dll.compressed" />
+    <EmbeddedResource Include="costura.entityframework.sqlser.compressed" />
+    <EmbeddedResource Include="costura.http.dll.compressed" />
+    <EmbeddedResource Include="costura.mailkit.dll.compressed" />
+    <EmbeddedResource Include="costura.mailkit.pdb.compressed" />
+    <EmbeddedResource Include="costura.managedwinapi.dll.compressed" />
+    <EmbeddedResource Include="costura.materialskin.dll.compressed" />
+    <EmbeddedResource Include="costura.metroframework.design..compressed" />
+    <EmbeddedResource Include="costura.metroframework.dll.compressed" />
+    <EmbeddedResource Include="costura.metroframework.fonts.d.compressed" />
+    <EmbeddedResource Include="costura.mimekit.dll.compressed" />
+    <EmbeddedResource Include="costura.mimekit.pdb.compressed" />
+    <EmbeddedResource Include="costura.newtonsoft.json.dll.compressed" />
+    <EmbeddedResource Include="costura.openqa.selenium.chrome.compressed" />
+    <EmbeddedResource Include="costura.otp.net.dll.compressed" />
+    <EmbeddedResource Include="costura.system.buffers.dll.compressed" />
+    <EmbeddedResource Include="costura.system.data.sqlite.dll.compressed" />
+    <EmbeddedResource Include="costura.system.data.sqlite.ef6.compressed" />
+    <EmbeddedResource Include="costura.system.data.sqlite.lin.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.dia.compressed" />
+    <EmbeddedResource Include="costura.webdriver.dll.compressed" />
+    <EmbeddedResource Include="costura.webdriver.support.dll.compressed" />
+    <EmbeddedResource Include="costura.webdrivermanager.dll.compressed" />
+    <EmbeddedResource Include="costura.xnet.dll.compressed" />
+    <EmbeddedResource Include="costura.metadata" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Net.Http">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="WebDriver">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Http">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\Http.dll</HintPath>
+    </Reference>
+    <Reference Include="xNet">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\xNet.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedWinapi">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\ManagedWinapi.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="Emgu.CV.World">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\Emgu.CV.World.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="WebDriver.Support">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\WebDriver.Support.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="MailKit">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\MailKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Otp.NET">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\Otp.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="MimeKit">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\MimeKit.dll</HintPath>
+    </Reference>
+    <Reference Include="AE.Net.Mail">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\AE.Net.Mail.dll</HintPath>
+    </Reference>
+    <Reference Include="DeviceId">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\DeviceId.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriverManager">
+      <HintPath>..\..\..\MaxCare Activated\MaxCare 4.9.1\WebDriverManager.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

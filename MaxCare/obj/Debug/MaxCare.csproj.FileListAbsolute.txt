@@ -1,0 +1,481 @@
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.AssemblyReference.cache
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.CoreCompileInputs.cache
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fupdateData2.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.GenerateResource.cache
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fThemHanhDong.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fTienIchLocTrung.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fCauHinhChung.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fCauHinhTuongTac.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fChangeConfig.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fConfigInteract.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHDXacNhanKetBanv2.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHelpNhapComment.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHuongDanRandom.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fImportAccount.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fImportProxy.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fImportUseragent.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fLocTheoDanhSachUid.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fmain.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fMoTrinhDuyet.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fThemSizeChrome.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fbin.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fDanhSachChuDe.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fDanhSachKichBan_Old.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHDDangBaiTheoID.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fupdateData.resources
+D:\FILE MAXCARE\MaxCare\bin\Debug\MaxCare.exe
+D:\FILE MAXCARE\MaxCare\bin\Debug\MaxCare.pdb
+D:\FILE MAXCARE\MaxCare\bin\Debug\BouncyCastle.Crypto.dll
+D:\FILE MAXCARE\MaxCare\bin\Debug\AE.Net.Mail.pdb
+D:\FILE MAXCARE\MaxCare\bin\Debug\DeviceId.xml
+D:\FILE MAXCARE\MaxCare\bin\Debug\MailKit.xml
+D:\FILE MAXCARE\MaxCare\bin\Debug\MimeKit.xml
+D:\FILE MAXCARE\MaxCare\bin\Debug\Newtonsoft.Json.pdb
+D:\FILE MAXCARE\MaxCare\bin\Debug\Newtonsoft.Json.xml
+D:\FILE MAXCARE\MaxCare\bin\Debug\System.Data.SQLite.xml
+D:\FILE MAXCARE\MaxCare\bin\Debug\System.Data.SQLite.dll.config
+D:\FILE MAXCARE\MaxCare\bin\Debug\WebDriver.xml
+D:\FILE MAXCARE\MaxCare\bin\Debug\WebDriver.Support.xml
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.CopyComplete
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.exe
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.pdb
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.Properties.Resources.resources
+D:\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fIntro.resources
+D:\FILE MAXCARE\MaxCare\bin\Debug\MaxCare.exe.config
+D:\FILE MAXCARE\MaxCare\bin\Debug\MetroFramework.dll
+D:\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.Form1.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\MaxCare.exe.config
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\MaxCare.exe
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\MaxCare.pdb
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\BouncyCastle.Crypto.dll
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\AE.Net.Mail.pdb
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\DeviceId.xml
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\MailKit.xml
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\MimeKit.xml
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\Newtonsoft.Json.pdb
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\Newtonsoft.Json.xml
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\System.Data.SQLite.xml
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\System.Data.SQLite.dll.config
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\WebDriver.xml
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\bin\Debug\WebDriver.Support.xml
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.AssemblyReference.cache
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fbin.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fCauHinhChung.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fCauHinhTuongTac.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fChangeConfig.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fConfigInteract.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fDanhSachChuDe.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fDanhSachKichBan_Old.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHDDangBaiTheoID.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHDXacNhanKetBanv2.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHelpNhapComment.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fHuongDanRandom.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fImportAccount.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fImportProxy.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fImportUseragent.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fIntro.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fLocTheoDanhSachUid.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fmain.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fMoTrinhDuyet.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fThemHanhDong.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fThemSizeChrome.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fTienIchLocTrung.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fupdateData.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\maxcare.fupdateData2.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.Properties.Resources.resources
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.GenerateResource.cache
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.CoreCompileInputs.cache
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.csproj.CopyComplete
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.exe
+D:\FILE MAXCARE\FILE MAXCARE\MaxCare\obj\Debug\MaxCare.pdb
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\MaxCare.exe
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\MaxCare.pdb
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\AE.Net.Mail.pdb
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\DeviceId.xml
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\MailKit.xml
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\MimeKit.xml
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\System.Data.SQLite.xml
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\WebDriver.xml
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\bin\Debug\WebDriver.Support.xml
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\MaxCare.csproj.AssemblyReference.cache
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fbin.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fCauHinhChung.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fCauHinhTuongTac.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fChangeConfig.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fConfigInteract.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fDanhSachChuDe.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fDanhSachKichBan_Old.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fHDDangBaiTheoID.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fHDXacNhanKetBanv2.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fHelpNhapComment.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fHuongDanRandom.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fImportAccount.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fImportProxy.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fImportUseragent.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fIntro.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fLocTheoDanhSachUid.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fmain.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fMoTrinhDuyet.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fquanLyTinNhan.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fThemHanhDong.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fThemSizeChrome.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fTienIchLocTrung.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fupdateData.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\maxcare.fupdateData2.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\MaxCare.Properties.Resources.resources
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\MaxCare.csproj.GenerateResource.cache
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\MaxCare.csproj.CoreCompileInputs.cache
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\MaxCare.csproj.CopyComplete
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\MaxCare.exe
+C:\Users\tungd\Downloads\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\SOURCE CODE MAXCARE 4.8.2\MaxCare\obj\Debug\MaxCare.pdb
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\MaxCare.exe
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\MaxCare.pdb
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fbin.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fCauHinhChung.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fCauHinhTuongTac.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fChangeConfig.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fConfigInteract.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fDanhSachChuDe.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fDanhSachKichBan_Old.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHDDangBaiTheoID.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHDXacNhanKetBanv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHelpNhapComment.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHuongDanRandom.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fImportAccount.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fImportProxy.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fImportUseragent.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fIntro.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fLocTheoDanhSachUid.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fmain.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fMoTrinhDuyet.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fquanLyTinNhan.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fThemHanhDong.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fThemSizeChrome.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fTienIchLocTrung.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fupdateData.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fupdateData2.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fViewChrome.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.csproj.CopyComplete
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.exe
+D:\Desktop\ToolCSharpAndSourceCode\MaxCare Activated\SOURCE-CODE-MAXCARE-4.8.2-master\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\MaxCare.exe
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\MaxCare.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.Drawing.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.Management.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.Windows.Forms.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.Drawing.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.Management.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\bin\Debug\System.Windows.Forms.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.csproj.AssemblyReference.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fbin.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fCauHinhChung.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fCauHinhTuongTac.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fChangeConfig.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fConfigInteract.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fDanhSachChuDe.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fDanhSachKichBan_Old.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHDDangBaiTheoID.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHDXacNhanKetBanv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHelpNhapComment.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fHuongDanRandom.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fImportAccount.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fImportProxy.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fImportUseragent.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fIntro.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fLocTheoDanhSachUid.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fmain.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fMoTrinhDuyet.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fquanLyTinNhan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fThemHanhDong.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fThemSizeChrome.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fTienIchLocTrung.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fupdateData.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fupdateData2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\maxcare.fViewChrome.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.csproj.CopyComplete
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.exe
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\SOURCE-CODE-MAXCARE-4.8.2-master\MaxCare\obj\Debug\MaxCare.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\Class306.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fActive.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fAddFile.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fBin.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCapNhatDuLieu.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCauHinhChung.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCauHinhHienThi.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCauHinhKhoiPhucTaiKhoan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCauHinhQuetNhom.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCauHinhTaoShortcut.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCauHinhTuongTac.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fChange.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fChangeConfig.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fChonBaiViet.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fChonKichBan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fChonThuMuc.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fClearBackup.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fClearProfile.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fConfigInteract.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fContact.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCopy.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fCopy_1.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fDanhSachChuDe.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fDanhSachKichBan_Old.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fEditFile.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDAnMail.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBackupData.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBaiVietBanBe.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBaiVietFanpage.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBaiVietNewsfeed.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBaiVietNewsfeedv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBaiVietNhom.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBaiVietProfile.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBaiVietTrenTuong.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBuffFollowCaNhan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBuffFollowLikePage.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBuffLikeComment.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDBuffTinNhanProfile.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDChocBanBe.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDChucMungSinhNhat.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDCongKhaiBaiVietGanThe.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDDangBai.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDDangBaiTheoID.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDDangStatus.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDDangStatusV2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDDangStory.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDDocThongBao.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDHuyKetBan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDHuyLikePage.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDHuyLoiMoiKetBan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanGoiY.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanGoiYv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanTepUid.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanTepUidNew.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanThanhVienNhom.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanTheoTuKhoa.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanTheoTuKhoav2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKetBanVoiBanBeCuaUid.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDKhangSpam.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDLoginMail.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDMoiBanBeVaoNhom.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDNghiGiaiLao.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDNhanTinBanBe.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDNhanTinPage.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDPhanHoiTinNhan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDReport.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDReviewPage.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDRoiNhom.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDRotate.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDSeedingByVideo.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDShareBai.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDShareBaiTut.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDShareBaiv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDSpamBaiViet.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDSpamBaiVietv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDTaoPage.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDThamGiaNhomTuKhoa.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDThamGiaNhomUid.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDTimKiemGoogle.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDTraLoiComment.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDTruyCapWebsite.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDTuongTacBaiVietTheoID.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDTuongTacBanBe.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDTuongTacNewsfeed.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDVerify.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXacNhanKetBan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXacNhanKetBanv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXemStory.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXemStoryChiDinh.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXemStoryv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXemWatch.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXemWatchv2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXoaNhatKyHoatDong.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHDXoaTinNhan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHelpNhapComment.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fHuongDanRandom.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fImportAccount.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fImportProxy.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fImportProxy_1.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fImportUseragent.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fImportUseragent_1.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fInterfaceChrome.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fIntro.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fLocTheoDanhSachUid.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fMain.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fMoTrinhDuyet.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fNhapCookieTrungGian.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fNhapPassKhoiPhuc.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fNhapPassKhoiPhuc2.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fNhapTokenTrungGian.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fNhapTokenTrungGian_DownAvatar.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fQuanLyTinNhan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fSelectFolder.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fSharePage.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fTemplateForm.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fThemHanhDong.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fThemKichBan.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fThemMailKhoiPhuc.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fThemSizeChrome.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fTienIchLocTrung.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fUpdateData.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\fUpdateData_1.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\maxcare.fViewChrome.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\MaxCare.Properties.Resources.resources
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\MaxCare.csproj.GenerateResource.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\MaxCare.csproj.CoreCompileInputs.cache
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\MaxCare.exe
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\MaxCare.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MaxCare.exe
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MaxCare.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\netstandard.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.AppContext.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Collections.Concurrent.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Collections.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Collections.NonGeneric.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Collections.Specialized.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.ComponentModel.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Console.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Data.Common.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.Debug.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.Process.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.Tools.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Drawing.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Dynamic.Runtime.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Globalization.Calendars.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Globalization.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Globalization.Extensions.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.Compression.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.FileSystem.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.Pipes.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Linq.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Linq.Expressions.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Linq.Parallel.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Linq.Queryable.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.Http.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.NameResolution.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.NetworkInformation.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.Ping.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.Requests.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.Security.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.Sockets.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Net.WebSockets.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.ObjectModel.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Reflection.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Reflection.Extensions.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Reflection.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Resources.Reader.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Resources.ResourceManager.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Resources.Writer.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.Extensions.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.Handles.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.InteropServices.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.Numerics.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.Claims.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.Principal.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Security.SecureString.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Text.Encoding.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Text.RegularExpressions.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Threading.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Threading.Overlapped.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Threading.Tasks.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Threading.Thread.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Threading.ThreadPool.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Threading.Timer.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.ValueTuple.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Xml.XDocument.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Xml.XmlDocument.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Xml.XPath.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\AE.Net.Mail.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\BouncyCastle.Crypto.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Costura.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\DeviceId.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Emgu.CV.World.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\EntityFramework.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Http.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\KAutoHelper.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MailKit.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\ManagedWinapi.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MaterialSkin.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MetroFramework.Design.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MetroFramework.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MetroFramework.Fonts.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MimeKit.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Otp.NET.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\RestSharp.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Buffers.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Drawing.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Management.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Windows.Forms.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\WebDriver.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\WebDriver.Support.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\WebDriverManager.dll
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\AE.Net.Mail.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\DeviceId.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\EntityFramework.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MailKit.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\MimeKit.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Newtonsoft.Json.pdb
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Drawing.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Management.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\System.Windows.Forms.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\WebDriver.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\bin\Debug\WebDriver.Support.xml
+D:\Desktop\ToolCSharpAndSourceCode\Code Tool C#\Sourcemaxcare4971\MaxCare\obj\Debug\MaxCare.csproj.CopyComplete
